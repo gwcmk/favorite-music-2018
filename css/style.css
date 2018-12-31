@@ -14,6 +14,7 @@ small {
 
 .quote {
   margin-left: 20px;
+  margin-right: 20px;
 }
 
 .header-text {
@@ -33,6 +34,7 @@ small {
 }
 
 .list h3 {
+  font-family: Georgia, serif;
   font-size: 1.2rem;
 }
 
@@ -56,7 +58,9 @@ li img {
   max-width: 30vw;
 }
 
-
+.extras {
+  margin-top: 40px;
+}
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
   body {
