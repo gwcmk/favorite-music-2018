@@ -49,7 +49,23 @@ var songs = [
   "IU - Bbibbi",
   "Young Thug (feat. Gunna & Lil Baby) - Chanel",
   "Metro Boomin (feat. Gunna) - Space Cadet",
-  "Lil Baby (feat. Gunna & Lil Uzi Vert) - Life Goes On"
+  "Lil Baby (feat. Gunna & Lil Uzi Vert) - Life Goes On",
+  "Dean (feat. Sulli & Rad Museum) - dayfly",
+  "Zaytoven (feat. Lil Uzi Vert) - Strong",
+  "Riton & Kah-Lo - Ginger",
+  "Charli XCX - No Angel",
+  "YG (feat. 2 Chainz, Big Sean & Nicki Minaj) - Big Bank",
+  "Camila Cabello (feat. Swae Lee) - Real Friends (Remix)",
+  "Pardison Fontaine (feat. Cardi B) - Backin’ It Up",
+  "Little Simz - Offence",
+  "Mick Jenkins - Gwendolynn’s Apprehension",
+  "Joey Purp - Elastic",
+  "ALLBLACK & Kenny Beats - John Madden 2",
+  "Blueface - Dead Locs",
+  "Black Noi$e - Wake Up",
+  "Black Noi$e - Ninety6",
+  "Leven Kali - Mine",
+  "Heize - Sorry"
 ]
 var sortedSongs = songs.sort();
 
