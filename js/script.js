@@ -63,4 +63,4 @@ var sortedSongs = songs.sort();
     songElement.append(songTitleElement);
     extras.append(songElement);
   })
-})();
+}());
