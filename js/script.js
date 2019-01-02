@@ -65,7 +65,9 @@ var songs = [
   "Black Noi$e - Wake Up",
   "Black Noi$e - Ninety6",
   "Leven Kali - Mine",
-  "Heize - Sorry"
+  "Heize - Sorry",
+  "Noname (feat. Smino & Saba) - Ace",
+  "Silk City, Dua Lipa - Electricity"
 ]
 var sortedSongs = songs.sort();
 
