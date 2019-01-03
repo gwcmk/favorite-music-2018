@@ -68,7 +68,8 @@ var songs = [
   "Heize - Sorry",
   "Noname (feat. Smino & Saba) - Ace",
   "Silk City, Dua Lipa - Electricity",
-  "Tyler, The Creator - 435"
+  "Tyler, The Creator - 435",
+  "JPEGMAFIA - Puff Daddy"
 ]
 var sortedSongs = songs.sort();
 
