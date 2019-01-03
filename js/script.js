@@ -67,7 +67,8 @@ var songs = [
   "Leven Kali - Mine",
   "Heize - Sorry",
   "Noname (feat. Smino & Saba) - Ace",
-  "Silk City, Dua Lipa - Electricity"
+  "Silk City, Dua Lipa - Electricity",
+  "Tyler, The Creator - 435"
 ]
 var sortedSongs = songs.sort();
 
